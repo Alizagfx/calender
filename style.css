@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(rgb(57, 135, 236), rgb(105, 9, 214));
+}
+
+
+
+ .calendar-table th,
+ .calendar-table td {
+    text-align: center;
+    padding: 15px;
+    border: 1px solid white;
+    font-size: 25px;
+
+
+}
+
+ .calendar-table th {
+    color: white;
+    font-weight: bold;
+}
+.calendar-table td{
+    color: white;
+}
+
+ .calendar-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.h {
+    color: rgb(3, 3, 212);
+    font-size: 18px;
+}
+
+.heading {
+    color: rgb(246, 248, 248);
+    font-size: 35px;
+    font-weight: bold;
+}
+/* .d{
+    color: blue;
+} */
+ /* .t {
+color: blueviolet;
+ } */
+
+ .a:hover{
+background-color: rgb(149, 182, 253);
+} 
+/* .calendar-table{
+    border: color(srgb red green blue);
+} */
